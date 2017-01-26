@@ -1,0 +1,2 @@
+# weebsocgame
+the weebsoc game™
